@@ -1,5 +1,5 @@
 variable "input_hello" {
-  default = "Hello Terraform Cloud!"
+  default = "Hello Terraform Cloud! (#0)"
 }
 
 output "output_hello" {
